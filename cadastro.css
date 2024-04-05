@@ -100,3 +100,11 @@ input{
     font-size: 20px;
 }
 
+.navbar a{
+    color: #e3b062;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: #32b9cd;
+}
